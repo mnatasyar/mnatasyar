@@ -3,45 +3,31 @@
 </h1>
 
 ### 👋 Halo, Saya M. Natasya Ramadana!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnatasyar&label=Profile%20views&color=0e75b6&style=flat" alt="mnatasyar" /> </p>
 
-Saya seorang pengembang perangkat lunak yang bersemangat tentang berbagai teknologi, terutama dalam pengembangan perangkat lunak. Saya memiliki keahlian dalam beberapa bidang seperti HTML, CSS, JavaScript, React, TypeScript, SQL, Flutter, dan Python.
+<h3>Tiba-tiba terdampar di jurusan Teknik Informatika, menemukan minat pada coding, namun bakat yang terpendam tak kunjung terungkap.</h3>
 
-Jika kamu ingin berdiskusi tentang teknologi atau berbagi ide, jangan ragu untuk menghubungi saya. Saya senang berkolaborasi dan belajar hal-hal baru!
+- 🔭 I’m currently working on **TimCupang**
 
-Terima kasih sudah mampir, semoga hari kamu menyenangkan! 😊🚀
+- 🌱 I’m currently learning **React, and Typescript**
 
 
-### Connect with Me 🌐
+## Connect with Me 🌐
 
-<p align="left">
-  <a href="https://twitter.com/ininasaaa" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30px" style="padding-right:10px;" />
-  </a>
-  <a href="https://www.instagram.com/mhdnasa/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="Instagram" width="30px" style="padding-right:10px;" />
-  </a>
-  <a href="ga pake spotify bang" target="_blank" style="text-decoration: none;">
-    <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-logo-transparent-spotify-logo-images-25.png" alt="Spotify" width="30px" style="padding-right:10px;" />
-  </a>
-</p>
+<a href="https://twitter.com/ininasaaa" target="blank"><img src="https://img.icons8.com/color/144/000000/twitter.png" alt="ininasaaa" height="45" width="45" /></a>&nbsp;
+<a href="https://www.instagram.com/mhdnasa/" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="mhdnasa" height="45" width="40" /></a>&nbsp;
+<a href="" target="blank"><img src="https://img.icons8.com/fluency/144/000000/spotify.png" alt="mhdnasa" height="45" width="45" /></a>&nbsp;
 
-##
-
-### Languages and Tools
+## Languages and Tools
 
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" style="padding-right:10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="30px" style="padding-right:10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="30px" style="padding-right:10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30px" style="padding-right:10px;" />
-    <img src="https://icongr.am/devicon/typescript-original.svg?color=currentColor" alt="TypeScript" width="30px" style="padding-right:10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30px" style="padding-right:10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="30px" style="padding-right:10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="30px" style="padding-right:10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40px" />&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" width="40px"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40px"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40px"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://icongr.am/devicon/typescript-original.svg?color=currentColor" alt="TypeScript" width="40px"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40px"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40px"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40px"/>&nbsp;&nbsp;&nbsp;
 </p>
-
-
-
-
-
 
