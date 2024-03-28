@@ -31,3 +31,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40px"/>&nbsp;&nbsp;&nbsp;
 </p>
 
+## Statistic
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnatasyar&show_icons=true&locale=en&layout=compact" alt="mnatasyar" /></p>
