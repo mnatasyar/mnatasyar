@@ -7,7 +7,7 @@
 
 <h3>Tiba-tiba terdampar di jurusan Teknik Informatika, menemukan minat pada coding, namun bakat yang terpendam tak kunjung terungkap.</h3>
 
-- 🔭 I’m currently working on **TimCupang**
+- 🔭 I’m currently working on **EcoRecycle Team**
 
 - 🌱 I’m currently learning **React, and Typescript**
 
